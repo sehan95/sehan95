@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning: JAVA, JAVASCRIPT, REACT, SPRING, SPRINGBOOT
-- 🤔 I’m looking for help with Algorythm problem solving.
+
+- 🤔 I’m looking for help with Algorithm problem solving.
+
 - 💬 Ask me about my portfolio or myself
+
 - 📫 How to reach me: Gmail: sehan95@gmail.com
+
 - ⚡ Fun fact: I can speak 4 languages(Korean, English, Spanish, Chinese)
 
 
