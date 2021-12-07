@@ -6,15 +6,15 @@
 <h3 align="center">💻Tech Stack💻</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>&nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <br>
 
 <h3>⚡ Fun Fact ⚡</h3>
-<div>I can speak 4 languages(Korean 🇰🇷, English 🇺🇸, Spanish 🇪🇸, Chinese 🇨🇳)</div>
+<h4>I can speak 4 languages(Korean 🇰🇷, English 🇺🇸, Spanish 🇪🇸, Chinese 🇨🇳)</h4>
 
 
 <h3 align="center">📫 My Contact 📫</h3>
